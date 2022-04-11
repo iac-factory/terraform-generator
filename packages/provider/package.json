@@ -1,6 +1,6 @@
 {
     "name": "tf-provider",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "description": "Terraform `provider.tf` Configuration Generator",
     "keywords": [
         "terraform",

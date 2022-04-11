@@ -1,6 +1,6 @@
 {
     "name": "tf-env",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "description": "Terraform Environment Variable(s) Configuration Utility",
     "keywords": [
         "tf-env"

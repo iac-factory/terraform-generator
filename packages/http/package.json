@@ -1,6 +1,6 @@
 {
     "name": "tf-http",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "description": "Terraform HTTP Backend Configuration + Setup Utility",
     "keywords": [
         "terraform",

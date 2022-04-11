@@ -1,6 +1,6 @@
 {
     "name": "tf-etcd",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "description": "Terraform `etcd` Backend Configuration + Setup Utility",
     "keywords": [
         "terraform",

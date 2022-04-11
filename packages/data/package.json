@@ -1,6 +1,6 @@
 {
     "name": "tf-data-source",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "description": "Terraform `Data` Configuration + File Generator",
     "keywords": [
         "terraform",
