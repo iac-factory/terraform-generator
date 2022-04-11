@@ -1,6 +1,6 @@
 {
   "name": "tf-tfvars",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Terraform Configuration Input Package `terraform.auto.tfvars` Generator",
   "keywords": [
     "tf-tfvars"

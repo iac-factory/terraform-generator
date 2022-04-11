@@ -1,6 +1,6 @@
 {
   "name": "tf-varialbes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Terraform `variables.tf` Code Generator",
   "keywords": [
     "terraform",

@@ -1,6 +1,6 @@
 {
   "name": "tf-iac",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Terraform `~/.iac` Provider Global Configuration",
   "keywords": [
     "tf-iac"

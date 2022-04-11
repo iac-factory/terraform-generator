@@ -1,6 +1,6 @@
 {
   "name": "tf-locals",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Terraform `local.tf` Configuration Generator",
   "keywords": [
     "terraform",

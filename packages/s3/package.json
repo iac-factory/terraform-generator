@@ -1,6 +1,6 @@
 {
   "name": "tf-s3",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Terraform S3 Backend Configuration + Setup Utility",
   "keywords": [
     "terraform",
