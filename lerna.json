@@ -1,0 +1,9 @@
+{
+    "packages": [
+        "packages/*"
+    ],
+    "npmClient": "npm",
+    "version": "independent",
+    "npmClientArgs": [],
+    "ignoreChanges": []
+}

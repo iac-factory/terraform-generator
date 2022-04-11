@@ -1,0 +1,29 @@
+{
+  "name": "tf-lock",
+  "version": "0.0.1",
+  "description": "Terraform Backend Lock API Management",
+  "keywords": [
+    "tf-lock"
+  ],
+  "author": "Jacob B. Sanders <jacob.sanders@cloudhybrid.io>",
+  "homepage": "https://github.com/iac-factory/terraform-generator/tree/main/packages/lock#readme",
+  "license": "ISC",
+  "main": "lib/lock.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iac-factory/terraform-generator.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/iac-factory/terraform-generator/issues"
+  }
+}

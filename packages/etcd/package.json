@@ -1,0 +1,36 @@
+{
+  "name": "tf-etcd",
+  "version": "0.0.1",
+  "description": "Terraform `etcd` Backend Configuration + Setup Utility",
+  "keywords": [
+    "terraform",
+    "tf-etcd",
+    "automation",
+    "code-generation",
+    "etcd",
+    "backend",
+    "npm",
+    "node.js"
+  ],
+  "author": "Jacob B. Sanders <jacob.sanders@cloudhybrid.io>",
+  "homepage": "https://github.com/iac-factory/terraform-generator/tree/main/packages/etcd#readme",
+  "license": "ISC",
+  "main": "lib/etcd.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iac-factory/terraform-generator.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/iac-factory/terraform-generator/issues"
+  }
+}

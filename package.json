@@ -1,0 +1,26 @@
+{
+    "name": "terraform-generator",
+    "version": "0.0.0",
+    "type": "module",
+    "private": true,
+    "description": "Terraform File Generator Package(s) + Templating Engine",
+    "scripts": {
+        "bootstrap": "lerna bootstrap",
+        "install": "npm run clean && npm run bootstrap",
+        "publish": "npm run git-publish",
+        "git-msg": "printf \"Message: \" && read MSG && echo \"${MSG}\" > .msg",
+        "git-add": "npm run git-msg && git add --all",
+        "git-commit": "npm run git-add && git commit -m \"$(cat .msg)\"",
+        "git-publish": "npm run git-commit && lerna version --conventional-commits"
+    },
+    "repository": "https://github.com/iac-factory/terraform-generatorß.git",
+    "author": "Jacob B. Sanders",
+    "license": "BSD-2-Clause",
+    "homepage": "https://github.com/iac-factory/terraform-generator#readme",
+    "devDependencies": {
+        "conventional-changelog": "latest",
+        "conventional-changelog-cli": "latest",
+        "lerna": "^5.1.1",
+        "lerna-cli": "latest"
+    }
+}

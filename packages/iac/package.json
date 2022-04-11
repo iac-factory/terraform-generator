@@ -1,0 +1,29 @@
+{
+  "name": "tf-iac",
+  "version": "0.0.1",
+  "description": "Terraform `~/.iac` Provider Global Configuration",
+  "keywords": [
+    "tf-iac"
+  ],
+  "author": "Jacob B. Sanders <jacob.sanders@cloudhybrid.io>",
+  "homepage": "https://github.com/iac-factory/terraform-generator/tree/main/packages/iac#readme",
+  "license": "ISC",
+  "main": "lib/iac.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iac-factory/terraform-generator.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/iac-factory/terraform-generator/issues"
+  }
+}
