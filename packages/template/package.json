@@ -1,6 +1,6 @@
 {
     "name": "tf-template",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "description": "Terraform Templating Utility Package",
     "keywords": [
         "terraform",

@@ -1,6 +1,6 @@
 {
     "name": "tf-dot",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "description": "Terraform Dot Directory Management + Package",
     "keywords": [
         "tf-dot"
