@@ -1,6 +1,6 @@
 {
     "name": "tf-backend",
-    "version": "0.5.6",
+    "version": "0.5.7",
     "description": "Terraform HTTP Backend Configuration + Setup Utility",
     "keywords": [
         "terraform",
@@ -32,5 +32,5 @@
     "bugs": {
         "url": "https://github.com/iac-factory/terraform-generator/issues"
     },
-    "gitHead": "47fde18210be426753f33e2c14e7b27322eefb13"
+    "gitHead": "34d59fb0b1b2420767701764c30e454a25bd9f55"
 }
