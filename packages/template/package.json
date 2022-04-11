@@ -1,34 +1,34 @@
 {
-  "name": "tf-template",
-  "version": "0.0.2",
-  "description": "Terraform Templating Utility Package",
-  "keywords": [
-    "terraform",
-    "tf-template",
-    "automation",
-    "code-generation",
-    "npm",
-    "node.js"
-  ],
-  "author": "Jacob B. Sanders <jacob.sanders@cloudhybrid.io>",
-  "homepage": "https://github.com/iac-factory/terraform-generator/tree/main/packages/template#readme",
-  "license": "ISC",
-  "main": "lib/template.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
-  "files": [
-    "lib"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/iac-factory/terraform-generator.git"
-  },
-  "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "bugs": {
-    "url": "https://github.com/iac-factory/terraform-generator/issues"
-  }
+    "name": "tf-template",
+    "version": "0.5.0",
+    "description": "Terraform Templating Utility Package",
+    "keywords": [
+        "terraform",
+        "tf-template",
+        "automation",
+        "code-generation",
+        "npm",
+        "node.js"
+    ],
+    "author": "Jacob B. Sanders <jacob.sanders@cloudhybrid.io>",
+    "homepage": "https://github.com/iac-factory/terraform-generator/tree/main/packages/template#readme",
+    "license": "ISC",
+    "main": "lib/template.js",
+    "directories": {
+        "lib": "lib",
+        "test": "__tests__"
+    },
+    "files": [
+        "lib"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/iac-factory/terraform-generator.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: run tests from root\" && exit 1"
+    },
+    "bugs": {
+        "url": "https://github.com/iac-factory/terraform-generator/issues"
+    }
 }
