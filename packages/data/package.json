@@ -31,5 +31,6 @@
     },
     "bugs": {
         "url": "https://github.com/iac-factory/terraform-generator/issues"
-    }
+    },
+    "gitHead": "6184fa7a582d9803bf971f05f3f1ede5704af1f6"
 }
