@@ -1,5 +1,5 @@
 {
-    "name": "tf-varialbes",
+    "name": "tf-variables",
     "version": "0.5.2",
     "description": "Terraform `variables.tf` Code Generator",
     "keywords": [
