@@ -5,8 +5,7 @@
     "private": true,
     "description": "Terraform File Generator Package(s) + Templating Engine",
     "scripts": {
-        "bootstrap": "lerna bootstrap",
-        "install": "npm run clean && npm run bootstrap",
+        "install": "lerna bootstrap --npm-client npm",
         "publish": "npm run git-publish",
         "git-msg": "printf \"Message: \" && read MSG && echo \"${MSG}\" > .msg",
         "git-add": "npm run git-msg && git add --all",
@@ -20,7 +19,7 @@
     "devDependencies": {
         "conventional-changelog": "latest",
         "conventional-changelog-cli": "latest",
-        "lerna": "^5.1.1",
+        "lerna": "latest",
         "lerna-cli": "latest"
     }
 }
